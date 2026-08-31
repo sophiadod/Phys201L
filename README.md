@@ -2,6 +2,14 @@
 
 This repository contains the notebooks and course resources for PHYS 201L at Christopher Newport University.
 
+## Start here
+
+If this is your first laboratory meeting, follow the complete [GitHub, team-fork, and Google Colab setup guide](GETTING_STARTED.md) **before collecting data**.
+
+Each laboratory team uses exactly one shared fork. The guide explains how to create and verify a GitHub account, create the team fork, invite and accept collaborators, open notebooks in Colab, save back to GitHub, and verify that the work was actually committed.
+
+After completing the guide, open [`Start_Here.ipynb`](Start_Here.ipynb) from the **team fork** and complete the save test.
+
 ## Course documents
 
 - [Syllabus (PDF)](course_documents/PHYS201L_Syllabus_Fall_2026.pdf)
@@ -26,23 +34,23 @@ There is no laboratory meeting on October 12 because of fall recess. Each new la
 
 ## Before the first lab
 
-Each laboratory team uses one shared GitHub fork for the semester. Choose one team member to be the repository manager.
-
-1. The repository manager signs in to GitHub and forks this repository.
-2. In the fork, open **Settings → Collaborators** and invite the other team members.
-3. Each team member accepts the invitation.
-4. Open [`Start_Here.ipynb`](Start_Here.ipynb) in Google Colab and complete the save test.
+Do not begin with the Lab 1 notebook. Complete the [step-by-step setup guide](GETTING_STARTED.md), including the `Start_Here.ipynb` save-and-verify test, first.
 
 Do not place student ID numbers, grades, private feedback, or other sensitive information in this public repository.
 
 ### First-night checklist
 
 - [ ] Create one team fork and invite every teammate as a collaborator.
+- [ ] Confirm that every teammate accepted the invitation.
 - [ ] Complete the save test in [`Start_Here.ipynb`](Start_Here.ipynb).
 - [ ] Open [`Lab01_Density.ipynb`](labs/Lab01_Density/Lab01_Density.ipynb) from the **team fork** in Colab.
 - [ ] Enter every team member's name in the notebook.
 - [ ] Make an early test save to the team fork before beginning extensive work.
 - [ ] Confirm on GitHub that the saved notebook contains the team's changes.
+
+## Experiment instructions
+
+The printable experiment instructions for Labs 1-7 are in [`Experiment_Instructions`](Experiment_Instructions/). The released notebook remains the team's working laboratory record.
 
 ## Working on a lab
 
