@@ -22,8 +22,8 @@ Editable and printable versions are available in the [`course_documents`](course
 
 | Lab | Experiment | Meeting dates | Due at 8:45 p.m. | Status |
 | --- | --- | --- | --- | --- |
-| 1 | Density measurements and uncertainties | Aug 24 and Aug 31 | Aug 31 | **Released** |
-| 2 | Air track I: Kinematics | Sep 7 and Sep 14 | Sep 14 | Coming later |
+| 1 | Density measurements and uncertainties | Aug 24 and Aug 31 | Aug 31 | Completed |
+| 2 | Air track I: Kinematics | Sep 7 and Sep 14 | Sep 14 | **Released** |
 | 3 | Projectile motion | Sep 21 and Sep 28 | Sep 28 | Coming later |
 | 4 | Air track II: Newton's second law | Oct 5 and Oct 19 | Oct 19 | Coming later |
 | 5 | Air track III: Conservation of energy | Oct 26 and Nov 2 | Nov 2 | Coming later |
@@ -31,6 +31,10 @@ Editable and printable versions are available in the [`course_documents`](course
 | 7 | Moment of inertia | Nov 23 and Nov 30 | Nov 30 | Coming later |
 
 There is no laboratory meeting on October 12 because of fall recess. Each new lab will appear in the `labs` directory when it is released.
+
+### Current laboratory
+
+Before beginning Lab 2, the repository manager must use **Sync fork → Update branch**. Then open [`Lab02_Air_Track_Kinematics.ipynb`](labs/Lab02_Air_Track_Kinematics/Lab02_Air_Track_Kinematics.ipynb) from the **team fork**. The notebook initially runs with representative example data and explains how to export, upload, and select the team's own Capstone CSV files.
 
 ## Before the first lab
 
