@@ -24,8 +24,8 @@ Editable and printable versions are available in the [`course_documents`](course
 | --- | --- | --- | --- | --- |
 | 1 | Density measurements and uncertainties | Aug 24 and Aug 31 | Aug 31 | Completed |
 | 2 | Air track I: Kinematics | Sep 7 and Sep 14 | Sep 14 | Completed |
-| 3 | Projectile motion | Sep 21 and Sep 28 | Sep 28 | **Released** |
-| 4 | Air track II: Newton's second law | Oct 5 and Oct 19 | Oct 19 | Coming later |
+| 3 | Projectile motion | Sep 21 and Sep 28 | Sep 28 | Completed |
+| 4 | Air track II: Newton's second law | Oct 5 and Oct 19 | Oct 19 | **Released** |
 | 5 | Air track III: Conservation of energy | Oct 26 and Nov 2 | Nov 2 | Coming later |
 | 6 | Collisions in two dimensions | Nov 9 and Nov 16 | Nov 16 | Coming later |
 | 7 | Moment of inertia | Nov 23 and Nov 30 | Nov 30 | Coming later |
@@ -34,7 +34,7 @@ There is no laboratory meeting on October 12 because of fall recess. Each new la
 
 ### Current laboratory
 
-Before beginning Lab 3, the repository manager must use **Sync fork → Update branch**. Then open [`Lab03_Projectile_Motion.ipynb`](labs/Lab03_Projectile_Motion/Lab03_Projectile_Motion.ipynb) from the **team fork**. The notebook initially runs with representative example measurements. Replace every example value with the team's own measurements while preserving all raw trials.
+Before beginning Lab 4, the repository manager must use **Sync fork → Update branch**. Then open [`Lab04_Air_Track_Newtons_Second_Law.ipynb`](labs/Lab04_Air_Track_Newtons_Second_Law/Lab04_Air_Track_Newtons_Second_Law.ipynb) from the **team fork**. The notebook initially runs with representative two-photogate measurements. Replace every example row and instrument uncertainty with the team's own measurements while preserving all raw trials.
 
 ## Before the first lab
 
